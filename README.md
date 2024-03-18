@@ -1,1 +1,1 @@
-A simple customized Text Area project which has featurs like changing the font to uppercase ,lowercase,change the background ,change the color of the font , change the font style,etc. The Projct is made using HTML,CSS,JavaScript. 
+A basic customised Text Area project with features like background colour, font style, font colour, and uppercase/lowercase font changes, among others. The project is created with JavaScript, CSS, and HTML.
